@@ -18,7 +18,5 @@
 <br />
 
 
-
-[website]: https://codeSTACKr.com
 [youthforourplanet]: https://youthforourplanet.com
 

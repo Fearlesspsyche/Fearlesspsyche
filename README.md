@@ -18,7 +18,7 @@
 
 <br />
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/PHP.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/#777BB4.svg" />
 
 
 [youthforourplanet]: https://youthforourplanet.com

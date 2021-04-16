@@ -13,12 +13,14 @@
 
 <br />
 
+[![Spotify](https://novatorem-psi-ruby.vercel.app/api/spotify)](https://open.spotify.com/user/c7z2nle4i4l324gtmskyz94ee)
+
 
 [![Fearless Psyche's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fearlesspsyche&show_icons=true&theme=radical)](https://github.com/Fearlesspsyche/github-readme-stats)
 
 <br />
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/#777BB4.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/.svg" />
 
 
 [youthforourplanet]: https://youthforourplanet.com

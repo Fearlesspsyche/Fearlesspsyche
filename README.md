@@ -13,9 +13,12 @@
 
 <br />
 
+
 [![Fearless Psyche's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fearlesspsyche&show_icons=true&theme=radical)](https://github.com/Fearlesspsyche/github-readme-stats)
 
 <br />
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/PHP.svg" />
 
 
 [youthforourplanet]: https://youthforourplanet.com

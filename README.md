@@ -13,7 +13,10 @@
 
 <br />
 
-[![Spotify](https://novatorem-git-master-fearlesspsyche.vercel.app/api/spotify)](https://open.spotify.com/user/c7z2nle4i4l324gtmskyz94ee)
+
+### Spotify Playing 🎧
+
+[<img src="https://novatorem-git-master-fearlesspsyche.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/c7z2nle4i4l324gtmskyz94ee)
 
 
 [![Fearless Psyche's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fearlesspsyche&show_icons=true&theme=radical)](https://github.com/Fearlesspsyche/github-readme-stats)

@@ -13,7 +13,7 @@
 
 <br />
 
-[![Spotify](https://novatorem-psi-ruby.vercel.app/api/spotify)](https://open.spotify.com/user/c7z2nle4i4l324gtmskyz94ee)
+[![Spotify](https://novatorem-git-master-fearlesspsyche.vercel.app/api/spotify)](https://open.spotify.com/user/c7z2nle4i4l324gtmskyz94ee)
 
 
 [![Fearless Psyche's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fearlesspsyche&show_icons=true&theme=radical)](https://github.com/Fearlesspsyche/github-readme-stats)

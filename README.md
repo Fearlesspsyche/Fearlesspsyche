@@ -7,8 +7,8 @@
 
 - ⚡ Inner peace
 - 🌱 I love nature, and I'm a part of an organization that protects it. [Join us!][youthforourplanet]
-- 🔭 I love Astronomy.
-- ⚡ I love to face challenges and learn from many things in life.
+- ⚡ I love to face challenges and learn many things in life.
+- ⚡ Nothing is effective than practice
 
 
 <br />

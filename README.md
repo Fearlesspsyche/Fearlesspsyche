@@ -11,9 +11,7 @@ I am a passionate Student and Developer!
 - ⚡ I love to face challenges and learn many things in life.
 - ⚡ Nothing is effective than practice
 
-
-## ![Technology](https://img.icons8.com/external-parzival-1997-outline-color-parzival-1997/35/000000/external-technology-renewable-energy-parzival-1997-outline-color-parzival-1997.png) 
-# Technologies
+### Technologies
 
 ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![CSS](https://img.icons8.com/color/48/000000/css3.png)

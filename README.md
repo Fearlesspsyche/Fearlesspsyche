@@ -5,7 +5,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/fearlesspsyche)
 
 
-![image](https://user-images.githubusercontent.com/72861332/142974688-32b44f42-f690-4751-89af-8a62b416b0d2.png)
+![image](https://user-images.githubusercontent.com/72861332/142974707-cfdb3b68-8797-45b2-9aae-9a1e8b031a15.png){width=10%}
+
 I am a passionate Student and Developer!
 
 - ⚡ Inner peace

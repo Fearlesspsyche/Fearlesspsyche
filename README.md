@@ -20,7 +20,14 @@ I am a passionate Student and Developer!
 ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![CSS](https://img.icons8.com/color/48/000000/css3.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
-![PHP](https://img.icons8.com/officel/48/000000/php-logo.png)
+![PHP](https://img.icons8.com/color/48/000000/php.png)
+![Gitlab](https://img.icons8.com/color/48/gitlab.png)
+![Git](https://img.icons8.com/color/30/git.png)
+![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+![Windows](https://img.icons8.com/color/30/windows-10.png)
+![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)
+![Linux](https://img.icons8.com/color/30/linux.png)
+![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
 
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
 <br />

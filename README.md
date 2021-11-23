@@ -1,6 +1,6 @@
 ### Salut, je m'appelle John Paul. Enchantée de te rencontrer. 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Aspiring+Software+Engineer;Computer+Science+Student;Nice+to+meet+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFFF&size=24&width=500&lines=Aspiring+Software+Engineer;Computer+Science+Student;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/fearlesspsyche)
 

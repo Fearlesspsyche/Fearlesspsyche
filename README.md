@@ -14,9 +14,6 @@ I am a passionate Student and Developer!
 
 ## ![Technology](https://img.icons8.com/external-parzival-1997-outline-color-parzival-1997/30/000000/external-technology-digital-globalization-parzival-1997-outline-color-parzival-1997-1.png) Technologies
 
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![PHP](https://img.icons8.com/color/30/php.png)![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Gitlab](https://img.icons8.com/color/30/gitlab.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)
-
-
 ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![CSS](https://img.icons8.com/color/48/000000/css3.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)

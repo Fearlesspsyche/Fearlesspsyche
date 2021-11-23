@@ -12,7 +12,7 @@ I am a passionate Student and Developer!
 - ⚡ Nothing is effective than practice
 
 
-## ![Technology](https://img.icons8.com/external-parzival-1997-outline-color-parzival-1997/30/000000/external-technology-digital-globalization-parzival-1997-outline-color-parzival-1997-1.png) Technologies
+## ![Technology](https://img.icons8.com/external-parzival-1997-outline-color-parzival-1997/35/000000/external-technology-renewable-energy-parzival-1997-outline-color-parzival-1997.png) Technologies
 
 ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![CSS](https://img.icons8.com/color/48/000000/css3.png)

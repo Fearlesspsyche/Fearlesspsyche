@@ -12,7 +12,6 @@ I am a passionate Student and Developer!
 - ⚡ Nothing is effective than practice
 
 ### Technologies
-<br>
 
 ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![CSS](https://img.icons8.com/color/48/000000/css3.png)
@@ -27,7 +26,6 @@ I am a passionate Student and Developer!
 ![Windows](https://img.icons8.com/color/48/windows-10.png)
 ![Ubuntu](https://img.icons8.com/color/48/ubuntu--v1.png)
 ![Linux](https://img.icons8.com/color/48/linux.png)
-
 
 
 

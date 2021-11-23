@@ -4,7 +4,7 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/fearlesspsyche)
 
-
+<a href="https://icons8.com/icon/53381/developer">Developer icon by Icons8</a>
 I am a passionate Student and Developer!
 
 - ⚡ Inner peace

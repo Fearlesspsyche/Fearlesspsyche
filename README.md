@@ -8,7 +8,7 @@ I am a passionate Student and Developer!
 - ⚡ I love to face challenges and learn many things in life.
 - ⚡ Nothing is effective than practice
 
-[![Facebook](https://img.icons8.com/fluency/40/000000/facebook-new.png)](https://facebook.com/fearlesspsyche)
+[[Facebook](https://img.icons8.com/fluency/40/000000/facebook-new.png)](https://facebook.com/fearlesspsyche)
 [![LinkedIn](https://img.icons8.com/fluency/40/000000/linkedin.png)](https://www.linkedin.com/login)
 
 <br />

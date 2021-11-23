@@ -25,7 +25,7 @@ I am a passionate Student and Developer!
 ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
 ![Git](https://img.icons8.com/color/48/git.png)
 ![Gitlab](https://img.icons8.com/color/48/gitlab.png)
-![GitHub](https://img.icons8.com/bubbles/48/000000/github.png)
+![GitHub](https://img.icons8.com/stickers/48/000000/github.png)
 ![VSCode](https://img.icons8.com/color/48/visual-studio-code-2019.png)
 ![Windows](https://img.icons8.com/color/48/windows-10.png)
 ![Ubuntu](https://img.icons8.com/color/48/ubuntu--v1.png)

@@ -4,7 +4,8 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/fearlesspsyche)
 
-## I am a passionate Student and Developer!
+## ![image](https://user-images.githubusercontent.com/72861332/142974530-bfffe723-cdd6-4c3f-9edb-f056c3ce80cf.png)
+I am a passionate Student and Developer!
 
 - ⚡ Inner peace
 - 🌱 I love nature, and I'm a part of an organization that protects it. [Join us!][youthforourplanet]

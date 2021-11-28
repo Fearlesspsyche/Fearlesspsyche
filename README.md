@@ -29,6 +29,9 @@ I am a passionate Student and Developer!
 ### My Badges
 
 <img src="https://user-images.githubusercontent.com/72861332/143734761-b7c76b3d-ac52-44ad-a8ef-9b8a52176687.png" width="200" height="200" />
+<img src="https://user-images.githubusercontent.com/72861332/143734983-19212e83-eea0-4876-a98e-94d79631dd8b.png" width="200" height="200" />
+
+
 
 
 [![Fearless Psyche's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fearlesspsyche&show_icons=true&theme=radical)](https://github.com/Fearlesspsyche/github-readme-stats)

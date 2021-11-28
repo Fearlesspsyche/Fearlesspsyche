@@ -28,7 +28,7 @@ I am a passionate Student and Developer!
 
 ### My Badges
 
-![image](https://user-images.githubusercontent.com/72861332/143734761-b7c76b3d-ac52-44ad-a8ef-9b8a52176687.png | width=100)
+![image](https://user-images.githubusercontent.com/72861332/143734761-b7c76b3d-ac52-44ad-a8ef-9b8a52176687.png =250x250)
 
 
 

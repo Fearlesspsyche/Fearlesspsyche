@@ -33,8 +33,7 @@ I am a passionate Student and Developer!
 <img src="https://user-images.githubusercontent.com/72861332/143735091-d86a1b5c-38a8-4ca1-998c-b3dc525f40af.png" width="135" height="135" />
 </p>
 
-
-##
+<br />
 
 [![Fearless Psyche's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fearlesspsyche&show_icons=true&theme=radical)](https://github.com/Fearlesspsyche/github-readme-stats)
 

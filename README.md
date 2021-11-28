@@ -26,6 +26,11 @@ I am a passionate Student and Developer!
 ![Ubuntu](https://img.icons8.com/color/48/ubuntu--v1.png)
 ![Linux](https://img.icons8.com/color/48/linux.png)
 
+### My Badges
+
+![image](https://user-images.githubusercontent.com/72861332/143734761-b7c76b3d-ac52-44ad-a8ef-9b8a52176687.png | width=100)
+
+
 
 
 [![Fearless Psyche's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fearlesspsyche&show_icons=true&theme=radical)](https://github.com/Fearlesspsyche/github-readme-stats)

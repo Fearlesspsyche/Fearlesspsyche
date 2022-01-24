@@ -28,8 +28,8 @@ I am a passionate Student and Developer!
 
 ## My Badges
 <p align="left">
-<img src="https://user-images.githubusercontent.com/72861332/145699520-fcdc2e10-129e-442a-965a-d92437f87ed4.png" width="135" height="135" />
 <img src="https://user-images.githubusercontent.com/72861332/150822853-6a605458-8513-4a33-9e73-cdd104442780.png" width="135" height="135" />
+<img src="https://user-images.githubusercontent.com/72861332/145699520-fcdc2e10-129e-442a-965a-d92437f87ed4.png" width="135" height="135" />
 <img src="https://user-images.githubusercontent.com/72861332/143734761-b7c76b3d-ac52-44ad-a8ef-9b8a52176687.png" width="135" height="135" />
 <img src="https://user-images.githubusercontent.com/72861332/143734983-19212e83-eea0-4876-a98e-94d79631dd8b.png" width="135" height="135" />
 <img src="https://user-images.githubusercontent.com/72861332/143735091-d86a1b5c-38a8-4ca1-998c-b3dc525f40af.png" width="135" height="135" />

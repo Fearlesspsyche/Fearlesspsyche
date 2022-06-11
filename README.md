@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFFF&size=30&width=500&lines=Aspiring+Software+Engineer;Computer+Science+Student;Nice+to+meet+you!+❤️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFFF&size=30&width=500&lines=Aspiring+Software+Engineer;Computer+Science+Student;Nice+to+meet+you!❤️)](https://git.io/typing-svg)
 
 [![Facebook](https://img.icons8.com/fluency/40/000000/facebook-new.png)](https://facebook.com/fearlesspsyche)
 [![LinkedIn](https://img.icons8.com/fluency/40/000000/linkedin.png)](https://www.linkedin.com/login)

@@ -50,6 +50,7 @@ I am a passionate Student and Developer!
 
 
 
-![image](https://user-images.githubusercontent.com/72861332/181066727-50d7f06d-8788-43a3-9a25-47fd9ee83793.png)
+![image](https://user-images.githubusercontent.com/72861332/181066875-9246504b-f47b-4458-bc73-36d67421fefe.png)
+
 [youthforourplanet]: https://youthforourplanet.com
 

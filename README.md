@@ -7,7 +7,7 @@ I am a passionate Student and Developer!
 - Take chances.
 - Be the best version of yourself.
 
-##My Projects
+## Projects
 
 ## Technologies
 

@@ -4,10 +4,10 @@
 
 I am a passionate Student and Developer!
 
-- ⚡ Inner peace
-- 🌱 I love nature, and I'm a part of an organization that protects it. [Join us!][youthforourplanet]
-- ⚡ I love to face challenges and learn many things in life.
-- ⚡ Nothing is effective than practice
+- Take chances.
+- Be the best version of yourself.
+
+##My Projects
 
 ## Technologies
 

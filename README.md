@@ -2,11 +2,6 @@
 
 [![Facebook](https://img.icons8.com/fluency/40/000000/facebook-new.png)](https://facebook.com/fearlesspsyche)
 
-I am a passionate Student and Developer!
-
-- Take chances.
-- Be the best version of yourself.
-
 ## Projects
 
 ## Technologies

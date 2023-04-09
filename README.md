@@ -36,13 +36,5 @@
 
 </p>
 
-<br />
 
-[![Fearless Psyche's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fearlesspsyche&show_icons=true&theme=radical)](https://github.com/Fearlesspsyche/github-readme-stats)
-
-<br />
-
-
-
-[youthforourplanet]: https://youthforourplanet.com
 

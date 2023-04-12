@@ -11,8 +11,9 @@ business and technical standards.
 * 🌠 I have broad knowledge in computer field including Networking, Hardware, Operating Systems (Linux, etc), and Cybersecurity. 
 
 
-
-<!-- [![Facebook](https://img.icons8.com/fluency/40/000000/facebook-new.png)](https://facebook.com/fearlesspsyche) -->
+## Socials 
+[![Facebook](https://img.icons8.com/fluency/40/000000/facebook-new.png)](https://facebook.com/fearlesspsyche)
+[![LinkedIn](https://user-images.githubusercontent.com/72861332/231348291-6f30545f-3e23-4ec0-8d63-187f0a74fc48.png)](https://www.linkedin.com/in/john-paul-birol-502b47271)
 
 ## Technologies
 

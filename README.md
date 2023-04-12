@@ -21,7 +21,7 @@ business and technical standards.
 ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![CSS](https://img.icons8.com/color/48/000000/css3.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
-![React](https://user-images.githubusercontent.com/72861332/231346955-284e952e-a197-423f-9959-3d7ae23b645e.png)
+![React](https://user-images.githubusercontent.com/72861332/231347664-8584c978-ff17-4721-af0b-031ff40edfb5.png)
 ![Express](https://user-images.githubusercontent.com/72861332/231347003-711af202-0633-4440-ad5a-58376039eb1c.png)
 ![Node](https://user-images.githubusercontent.com/72861332/231347029-08032826-13d2-4e62-a720-f7cc4ac5c3e3.png)
 ![PHP](https://img.icons8.com/color/48/000000/php.png)

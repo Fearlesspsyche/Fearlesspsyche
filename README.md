@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFFF&size=25&width=600&lines=Senior+Web+Developer+@+Carisle+Media;Computer+Science+Student;Nice+to+meet+you!❤️)](https://git.io/typing-svg)
 
-![Test](https://komarev.com/ghpvc/?Fearlesspsyche&color=29ABE9&style=flat&label=Profile+Views)
+[![Visits](https://komarev.com/ghpvc/?username=fearlesspsyche&color=29ABE9&style=flat&label=Profile+Views)](https://github.com/fearlesspsyche)
 
 My name is **John Paul** and I work as a **Senior Web Developer** at Carisle Media Corporation. I lead and create efficient solutions and processes aligned with global 
 business and technical standards. 

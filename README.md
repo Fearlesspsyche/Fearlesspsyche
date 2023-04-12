@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFFF&size=25&width=600&lines=Senior+Web+Developer+@+Carisle+Media;Computer+Science+Student;Nice+to+meet+you!❤️)](https://git.io/typing-svg)
 
+![](https://komarev.com/ghpvc/?fearlesspsyche&color=29ABE9&style=flat&label=Profile+Views)
+
 My name is **John Paul** and I work as a **Senior Web Developer** at Carisle Media Corporation. I lead and create efficient solutions and processes aligned with global 
 business and technical standards. 
 
@@ -38,9 +40,8 @@ business and technical standards.
 ![Ubuntu](https://img.icons8.com/color/48/ubuntu--v1.png)
 ![Linux](https://img.icons8.com/color/48/linux.png)
 
-## My Badges
+## Badges
 <p align="left">
-  
 <img src="https://user-images.githubusercontent.com/72861332/145699520-fcdc2e10-129e-442a-965a-d92437f87ed4.png" width="135" height="135" />
 <img src="https://user-images.githubusercontent.com/72861332/143734761-b7c76b3d-ac52-44ad-a8ef-9b8a52176687.png" width="135" height="135" />
 <img src="https://user-images.githubusercontent.com/72861332/150822853-6a605458-8513-4a33-9e73-cdd104442780.png" width="135" height="135" />
@@ -49,9 +50,6 @@ business and technical standards.
 <img src="https://user-images.githubusercontent.com/72861332/190858997-e186a403-503c-41bd-83a2-739caa7f19fb.png" width="135" height="135" />
 <img src="https://user-images.githubusercontent.com/72861332/219255941-55ec5805-8283-4cb2-ad9b-d5a91312c1e7.png" width="135" height="135" />
 <img src="https://user-images.githubusercontent.com/72861332/219950534-c1cf4f6c-edb7-4a10-88eb-a32829710030.png" width="135" height="135" />
-
-
-
 </p>
 
 

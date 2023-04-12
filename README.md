@@ -48,7 +48,7 @@ business and technical standards.
 * Best Research at ALPHA's Explore Possibili-IT-ies (Team Lead - Nebula Technologies)
 * Best Documentation at ALPHA's Explore Possibili-IT-ies (Team Lead - Nebula Technologies)
 * First Place at Computer Programming 2 Finals Competition (Team Lead - ZenPay)
-* Rank 1 1st Year (101 ann 102)
+* Rank 1 1st Year (101 and 102)
 
 
 ## Badges

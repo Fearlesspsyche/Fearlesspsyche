@@ -4,10 +4,10 @@ My name is **John Paul** and I work as a **Senior Web Developer** at Carisle Med
 business and technical standards. 
 
 * 🌠 He/Him
-* 🌠 Web Development (MERN and LAMP stack)
+* 🌠 Web Development (MERN and LAMP stack).
 * 🌠 Highly proficient in OOP and other programming language paradigms.
-* 🌠 Highly efficient in Software Development Life Cycle (SDLC) 
-* 🌠 Interested in Artificial Intelligence and Computer Vision
+* 🌠 Highly efficient in Software Development Life Cycle (SDLC).
+* 🌠 Interested in Artificial Intelligence and Computer Vision.
 * 🌠 I have broad knowledge in computer field including Networking, Hardware, Operating Systems (Linux, etc), and Cybersecurity. 
 
 

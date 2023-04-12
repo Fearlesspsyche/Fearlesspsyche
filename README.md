@@ -12,7 +12,6 @@ business and technical standards.
 * 🌠 Interested in Artificial Intelligence and Computer Vision.
 * 🌠 I have broad knowledge in computer field including Networking, Hardware, Operating Systems (Linux, etc), and Cybersecurity. 
 
-
 ## Socials 
 [![Facebook](https://user-images.githubusercontent.com/72861332/231348477-80f1504d-0630-4172-9e46-8f06adda1c28.png)](https://facebook.com/fearlesspsyche)
 [![Instagram](https://user-images.githubusercontent.com/72861332/231348567-ff4594a7-0032-4567-ba27-9d81586d55a6.png)](https://www.instagram.com/fearlesspsyche/)
@@ -39,6 +38,18 @@ business and technical standards.
 ![Windows](https://img.icons8.com/color/48/windows-10.png)
 ![Ubuntu](https://img.icons8.com/color/48/ubuntu--v1.png)
 ![Linux](https://img.icons8.com/color/48/linux.png)
+
+## Achievements
+* Rank 2 Overall SHS
+* Rank 1 Web Development (Specialization: Computer Programming) SHS
+* Rank 1 PL/SQL (Specialization: Computer Programming) SHS
+* Rank 1 Java GUI (Specialization: Computer Programming) SHS
+* First Place at ALPHA's Explore Possibili-IT-ies (Team Lead - Nebula Technologies)
+* Best Research at ALPHA's Explore Possibili-IT-ies (Team Lead - Nebula Technologies)
+* Best Documentation at ALPHA's Explore Possibili-IT-ies (Team Lead - Nebula Technologies)
+* First Place at Computer Programming 2 Finals Competition (Team Lead - ZenPay)
+
+
 
 ## Badges
 <p align="left">

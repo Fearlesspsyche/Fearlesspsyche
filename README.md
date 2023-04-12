@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFFF&size=30&width=500&lines=Senior+Web+Developer+@+Carisle+Media;Computer+Science+Student;Nice+to+meet+you!❤️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFFF&size=25&width=600&lines=Senior+Web+Developer+@+Carisle+Media;Computer+Science+Student;Nice+to+meet+you!❤️)](https://git.io/typing-svg)
 
 [![Facebook](https://img.icons8.com/fluency/40/000000/facebook-new.png)](https://facebook.com/fearlesspsyche)
 

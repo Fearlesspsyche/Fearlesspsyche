@@ -27,7 +27,7 @@ business and technical standards.
 ![PHP](https://img.icons8.com/color/48/000000/php.png)
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
 ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
-![Mongo](https://user-images.githubusercontent.com/72861332/231347089-c7486e88-a686-405e-a505-800153f0909f.png)
+![Mongo]([https://user-images.githubusercontent.com/72861332/231347089-c7486e88-a686-405e-a505-800153f0909f.png](https://img.icons8.com/color/48/null/mongodb.png)
 ![Git](https://img.icons8.com/color/48/git.png)
 ![Gitlab](https://img.icons8.com/color/48/gitlab.png)
 ![GitHub](https://img.icons8.com/stickers/48/000000/github.png)

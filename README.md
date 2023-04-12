@@ -14,20 +14,19 @@ business and technical standards.
 
 <!-- [![Facebook](https://img.icons8.com/fluency/40/000000/facebook-new.png)](https://facebook.com/fearlesspsyche) -->
 
-## Projects
-
 ## Technologies
 
 ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![CSS](https://img.icons8.com/color/48/000000/css3.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
 ![React](https://user-images.githubusercontent.com/72861332/231347664-8584c978-ff17-4721-af0b-031ff40edfb5.png)
-![Express](https://user-images.githubusercontent.com/72861332/231347003-711af202-0633-4440-ad5a-58376039eb1c.png)
-![Node](https://user-images.githubusercontent.com/72861332/231347029-08032826-13d2-4e62-a720-f7cc4ac5c3e3.png)
+![Express](https://user-images.githubusercontent.com/72861332/231347891-14d835d8-4ffe-4c62-9861-97bdf1a93649.png)
+![Node](https://user-images.githubusercontent.com/72861332/231347973-211841ae-ad92-4aee-8c1e-5b6a0bc6a334.png)
 ![PHP](https://img.icons8.com/color/48/000000/php.png)
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
+![Python](https://user-images.githubusercontent.com/72861332/231348110-6a335e2d-a028-4185-b624-f15bbb255f98.png)
 ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
-![Mongo]([https://user-images.githubusercontent.com/72861332/231347089-c7486e88-a686-405e-a505-800153f0909f.png](https://img.icons8.com/color/48/null/mongodb.png)
+![MongoDB](https://user-images.githubusercontent.com/72861332/231348034-42293ee4-d78f-49e8-a852-327b77738a81.png)
 ![Git](https://img.icons8.com/color/48/git.png)
 ![Gitlab](https://img.icons8.com/color/48/gitlab.png)
 ![GitHub](https://img.icons8.com/stickers/48/000000/github.png)

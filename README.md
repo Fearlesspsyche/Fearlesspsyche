@@ -1,6 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFFF&size=25&width=600&lines=Senior+Web+Developer+@+Carisle+Media;Computer+Science+Student;Nice+to+meet+you!❤️)](https://git.io/typing-svg)
 
-[![Facebook](https://img.icons8.com/fluency/40/000000/facebook-new.png)](https://facebook.com/fearlesspsyche)
+My name is **John Paul** and I work as a Senior Web Developer at Carisle Media Corporation. I lead and create efficient solutions and processes aligned with global 
+business and technical standards. 
+
+* 🌠 He/Him
+* 🌠 I'm interested in:
+** Computer Vision 
+
+
+
+
+<!-- [![Facebook](https://img.icons8.com/fluency/40/000000/facebook-new.png)](https://facebook.com/fearlesspsyche) -->
 
 ## Projects
 

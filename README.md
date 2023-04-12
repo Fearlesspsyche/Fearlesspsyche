@@ -13,7 +13,9 @@ business and technical standards.
 
 ## Socials 
 [![Facebook](https://user-images.githubusercontent.com/72861332/231348477-80f1504d-0630-4172-9e46-8f06adda1c28.png)](https://facebook.com/fearlesspsyche)
+[![Instagram](https://user-images.githubusercontent.com/72861332/231348567-ff4594a7-0032-4567-ba27-9d81586d55a6.png)](https://www.instagram.com/fearlesspsyche/)
 [![LinkedIn](https://user-images.githubusercontent.com/72861332/231348291-6f30545f-3e23-4ec0-8d63-187f0a74fc48.png)](https://www.linkedin.com/in/john-paul-birol-502b47271)
+
 
 ## Technologies
 

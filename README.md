@@ -39,18 +39,6 @@ business and technical standards.
 ![Ubuntu](https://img.icons8.com/color/48/ubuntu--v1.png)
 ![Linux](https://img.icons8.com/color/48/linux.png)
 
-## Achievements
-* Rank 2 Overall SHS
-* Rank 1 Web Development (Specialization: Computer Programming) SHS
-* Rank 1 PL/SQL (Specialization: Computer Programming) SHS
-* Rank 1 Java GUI (Specialization: Computer Programming) SHS
-* First Place at ALPHA's Explore Possibili-IT-ies (Team Lead - Nebula Technologies)
-* Best Research at ALPHA's Explore Possibili-IT-ies (Team Lead - Nebula Technologies)
-* Best Documentation at ALPHA's Explore Possibili-IT-ies (Team Lead - Nebula Technologies)
-* First Place at Computer Programming 2 Finals Competition (Team Lead - ZenPay)
-* Rank 1 1st Year (101 and 102)
-
-
 ## Badges
 <p align="left">
 <img src="https://user-images.githubusercontent.com/72861332/145699520-fcdc2e10-129e-442a-965a-d92437f87ed4.png" width="135" height="135" />

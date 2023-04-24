@@ -10,7 +10,7 @@ business and technical standards.
 * 🌠 Highly proficient in OOP and other programming language paradigms.
 * 🌠 Highly efficient in Software Development Life Cycle (SDLC).
 * 🌠 Interested in Artificial Intelligence and Computer Vision.
-* 🌠 I have broad knowledge in computer field including Networking, Hardware, Operating Systems (Linux, etc), and Cybersecurity. 
+* 🌠 I have broad knowledge in various computer fields including Networking, Hardware, Operating Systems (Linux, etc), and Cybersecurity. 
 
 ## Socials 
 [![Facebook](https://user-images.githubusercontent.com/72861332/231348477-80f1504d-0630-4172-9e46-8f06adda1c28.png)](https://facebook.com/fearlesspsyche)

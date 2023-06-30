@@ -41,19 +41,9 @@ business and technical standards.
 
 ## Badges
 <p align="left">
-<img src="https://user-images.githubusercontent.com/72861332/145699520-fcdc2e10-129e-442a-965a-d92437f87ed4.png" width="135" height="135" />
-<img src="https://user-images.githubusercontent.com/72861332/143734761-b7c76b3d-ac52-44ad-a8ef-9b8a52176687.png" width="135" height="135" />
-<img src="https://user-images.githubusercontent.com/72861332/150822853-6a605458-8513-4a33-9e73-cdd104442780.png" width="135" height="135" />
-<img src="https://user-images.githubusercontent.com/72861332/143734983-19212e83-eea0-4876-a98e-94d79631dd8b.png" width="135" height="135" />
-<img src="https://user-images.githubusercontent.com/72861332/181067708-f72e4c58-bf3e-4586-af6a-f66ef67c0d45.png" width="135" height="135" />
-<img src="https://user-images.githubusercontent.com/72861332/190858997-e186a403-503c-41bd-83a2-739caa7f19fb.png" width="135" height="135" />
-<img src="https://user-images.githubusercontent.com/72861332/219255941-55ec5805-8283-4cb2-ad9b-d5a91312c1e7.png" width="135" height="135" />
-<img src="https://user-images.githubusercontent.com/72861332/219950534-c1cf4f6c-edb7-4a10-88eb-a32829710030.png" width="135" height="135" />
-<img src="https://user-images.githubusercontent.com/72861332/219950534-c1cf4f6c-edb7-4a10-88eb-a32829710030.png" width="135" height="135" />
-<img src="https://user-images.githubusercontent.com/72861332/219950534-c1cf4f6c-edb7-4a10-88eb-a32829710030.png" width="135" height="135" />
-<img src="https://user-images.githubusercontent.com/72861332/235281944-270324f9-6832-4a16-bd2e-8d603cf67c2d.png" width="135" height="135" />
-<img src="https://user-images.githubusercontent.com/72861332/235281979-9eb6f6b3-3b7f-4b9e-893c-e0eb685026dd.png" width="135" height="135" />
-<img src="https://github.com/Fearlesspsyche/Fearlesspsyche/assets/72861332/6a38d61f-814c-4012-b6b5-dd04f31fff96" width="135" height="135" />
+<img src="![image]" width="135" height="135" />
+
+![image](https://github.com/Fearlesspsyche/Fearlesspsyche/assets/72861332/a0537354-380a-4245-93f5-091bec5fc93b)
 
 </p>
 

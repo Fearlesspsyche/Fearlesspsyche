@@ -50,13 +50,9 @@ business and technical standards.
 <img src="https://github.com/Fearlesspsyche/Fearlesspsyche/assets/72861332/3f4ecdf2-c7f6-47f0-8b8d-19cd1659cf8a" width="135" height="135" />
 <img src="https://github.com/Fearlesspsyche/Fearlesspsyche/assets/72861332/251a7ae6-02e8-458c-b885-447f9afaf337" width="135" height="135" />
 <img src="https://github.com/Fearlesspsyche/Fearlesspsyche/assets/72861332/f47b2350-fb79-4b16-b373-aa370817d35c" width="135" height="135" />
-
-
-
-
-
-
-
+<img src="https://github.com/Fearlesspsyche/Fearlesspsyche/assets/72861332/3d7631bb-a6a8-4a82-8245-5b2d7960b0cc" width="135" height="135" />
+<img src="https://github.com/Fearlesspsyche/Fearlesspsyche/assets/72861332/d5ebb9b8-f272-43e6-bcca-3680c2103503" width="135" height="135" />
+<img src="https://github.com/Fearlesspsyche/Fearlesspsyche/assets/72861332/2c20281e-4c26-42d1-ba69-90f26563b147" width="135" height="135" />
 
 
 

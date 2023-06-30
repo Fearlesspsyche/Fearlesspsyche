@@ -45,6 +45,11 @@ business and technical standards.
 <img src="https://github.com/Fearlesspsyche/Fearlesspsyche/assets/72861332/a0537354-380a-4245-93f5-091bec5fc93b" width="135" height="135" />
 <img src="https://github.com/Fearlesspsyche/Fearlesspsyche/assets/72861332/366fc370-407a-4594-84b6-857d15a67d58" width="135" height="135" />
 <img src="https://github.com/Fearlesspsyche/Fearlesspsyche/assets/72861332/a2011daa-2403-4f6b-bb7d-9d689593fb81" width="135" height="135" />
+<img src="https://github.com/Fearlesspsyche/Fearlesspsyche/assets/72861332/ad11aaee-36cf-436a-b085-87e7f4adb7da" width="135" height="135" />
+<img src="https://github.com/Fearlesspsyche/Fearlesspsyche/assets/72861332/3f4ecdf2-c7f6-47f0-8b8d-19cd1659cf8a" width="135" height="135" />
+
+
+
 
 
 

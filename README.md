@@ -48,10 +48,6 @@ business and technical standards.
 
 
 
-![image](https://github.com/Fearlesspsyche/Fearlesspsyche/assets/72861332/a0537354-380a-4245-93f5-091bec5fc93b)
-![image](https://github.com/Fearlesspsyche/Fearlesspsyche/assets/72861332/366fc370-407a-4594-84b6-857d15a67d58)
-![image](https://github.com/Fearlesspsyche/Fearlesspsyche/assets/72861332/a2011daa-2403-4f6b-bb7d-9d689593fb81)
-
 
 
 </p>

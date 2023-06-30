@@ -53,6 +53,9 @@ business and technical standards.
 <img src="https://user-images.githubusercontent.com/72861332/219950534-c1cf4f6c-edb7-4a10-88eb-a32829710030.png" width="135" height="135" />
 <img src="https://user-images.githubusercontent.com/72861332/235281944-270324f9-6832-4a16-bd2e-8d603cf67c2d.png" width="135" height="135" />
 <img src="https://user-images.githubusercontent.com/72861332/235281979-9eb6f6b3-3b7f-4b9e-893c-e0eb685026dd.png" width="135" height="135" />
+<img src="https://github.com/Fearlesspsyche/Fearlesspsyche/assets/72861332/6a38d61f-814c-4012-b6b5-dd04f31fff96" width="135" height="135" />
+
+
 </p>
 
 

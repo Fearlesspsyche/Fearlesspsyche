@@ -2,8 +2,7 @@
 
 [![Visits](https://komarev.com/ghpvc/?username=fearlesspsyche&color=29ABE9&style=flat&label=Profile+Views)](https://github.com/fearlesspsyche)
 
-My name is **John Paul** and I work as a **Senior Web Developer** at Carisle Media Corporation. I lead and create efficient solutions and processes aligned with global 
-business and technical standards. 
+I lead and create efficient solutions and processes aligned with global business and technical standards. 
 
 * 🌠 He/Him
 * 🌠 Web Development (MERN and LAMP stack).

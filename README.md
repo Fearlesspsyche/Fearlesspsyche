@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFFF&size=25&width=600&lines=Freelance+Developer;Computer+Science+Student;Nice+to+meet+you!❤️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFFF&size=25&width=600&lines=Aspiring+AI/ML+Engineer;Computer+Science+Student;Nice+to+meet+you!❤️)](https://git.io/typing-svg)
 
 [![Visits](https://komarev.com/ghpvc/?username=fearlesspsyche&color=29ABE9&style=flat&label=Profile+Views)](https://github.com/fearlesspsyche)
 

@@ -8,7 +8,7 @@ I lead and create efficient solutions and processes aligned with global business
 * 🌠 Web Development (MERN and LAMP stack).
 * 🌠 Highly proficient in OOP and other programming language paradigms.
 * 🌠 Highly efficient in Software Development Life Cycle (SDLC).
-* 🌠 Interested in Artificial Intelligence and Computer Vision.
+* 🌠 Artificial Intelligence and Computer Vision.
 * 🌠 I have broad knowledge in various computer fields including Networking, Hardware, Operating Systems (Linux, etc), and Cybersecurity. 
 
 ## Socials 
